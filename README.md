@@ -1,3 +1,2 @@
 # Treadle-Pump-Project
-#Treadle pump project code and other files
-#Created by Rayming
+Treadle pump project code and other files, created by Rayming
